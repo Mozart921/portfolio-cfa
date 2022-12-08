@@ -1,0 +1,10 @@
+.navbar-nav .nav-link
+{
+  color: var(--secondary-color);
+}
+
+.navbar-nav .nav-link.active-link
+{
+  color: blueviolet;
+  text-decoration: underline;
+}

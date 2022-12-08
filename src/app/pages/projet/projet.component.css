@@ -1,0 +1,152 @@
+.content
+{
+  top: 30%;
+  position: absolute;
+  left: 50%;
+}
+.content h1
+{
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+
+}
+.content a
+{
+  text-decoration: none;
+  background-color: #fff;
+  color: var(--primary-color);
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.content a:hover
+{
+  background-color: var(--primary-color);
+  color: #fff;
+}
+.stepBox
+{
+  background-color: #000;
+  padding: 20px 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+.stepBox h1
+{
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--primary-color);
+  background-image: url(../../../assets/img/ionic.png);
+  background-size: cover;
+  height: 400px;
+  background-position: center;
+}
+.stepBox h2
+{
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--primary-color);
+  background-image: url(../../../assets/img/flutter.png);
+  background-size: cover;
+  height: 400px;
+  background-position: top;
+}
+.stepBox h3
+{
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--primary-color);
+  background-image: url(../../../assets/img/angular.png);
+  background-size: cover;
+  height: 400px;
+  background-position: top;
+}
+.stepBox h4
+{
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--primary-color);
+  background-image: url(../../../assets/img/todolist.png);
+  background-size: cover;
+  height: 700px;
+  background-position: top;
+}
+.stepBox h5
+{
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--primary-color);
+  background-image: url(../../../assets/img/EmpreinteCarbone.png);
+  background-size: cover;
+  height: 800px;
+  background-position: top;
+}
+.stepBox h6
+{
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--primary-color);
+  background-image: url(../../../assets/img/EmpreinteCarbone2.png);
+  background-size: cover;
+  height: 800px;
+  background-position: top;
+}
+.stepBox h7
+{
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--primary-color);
+  background-image: url(../../../assets/img/bibliglide.png);
+  background-size: cover;
+  height: 700px;
+  background-position: top;
+}
+.stepBox p
+{
+  font-size: 20px;
+  font-style: italic;
+  color: #fff;
+}
+.highlight
+{
+  color: blueviolet;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.col-lg-4 a
+{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.col-lg-6 a
+{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+
+}
+.col-lg-7 a
+{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+}
+.col-lg-8 a
+{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+}
+.q
+{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+}
